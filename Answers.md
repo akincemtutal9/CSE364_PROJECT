@@ -14,5 +14,5 @@ The git pull command downloads content from the remote repository to local repos
 
 The git clone used to point to an existing repo and make a clone or copy of that repo at in a new directory, at another location.
 
-
+All The Questions has been answere by 14:57.
 
